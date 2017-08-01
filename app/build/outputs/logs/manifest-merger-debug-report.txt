@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\Maciej\.android\build-cache\5c1fafea5d5415d28b421041c6e1e070cd5e1286\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Maciej\.android\build-cache\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Maciej\.android\build-cache\db8cd620e92114673511dff489c8304fdb785079\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Maciej\.android\build-cache\8df6ecde1390f83fb4908f504872b6e91d8b5d26\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Maciej\.android\build-cache\21b44b9acaab4eea203842cfabb3ffa05b2f4d6f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Maciej\.android\build-cache\b573305830f853637435a509ccd1923d9368ad99\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Maciej\.android\build-cache\681a34d976ffbaa8e6edefe633acf572cfe9e4f7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Maciej\.android\build-cache\2760c775e0a902378d4aff87bfa6313de344ceba\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Maciej\.android\build-cache\6ba0e41bec8b55516ba3e992470ccd7c0f16bff6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Maciej\.android\build-cache\3a737659afd04650f8cc4d15182383c02f97b1b0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Maciej\.android\build-cache\e7701d7a29dfb9483cc6a0041167f9f8b7ffda93\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:12:9-40
+activity#maciej.example.com.weatherapp.MainActivity
+ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] C:\Users\Maciej\.android\build-cache\5c1fafea5d5415d28b421041c6e1e070cd5e1286\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Maciej\.android\build-cache\3064f697ccf9a8a4770d7fc17b02b20ef06d4633\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Maciej\.android\build-cache\db8cd620e92114673511dff489c8304fdb785079\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Maciej\.android\build-cache\8df6ecde1390f83fb4908f504872b6e91d8b5d26\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Maciej\.android\build-cache\4c42d2fe35f129fc20314a0569a584449ebc1043\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Maciej\.android\build-cache\21b44b9acaab4eea203842cfabb3ffa05b2f4d6f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Maciej\.android\build-cache\b573305830f853637435a509ccd1923d9368ad99\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Maciej\.android\build-cache\681a34d976ffbaa8e6edefe633acf572cfe9e4f7\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Maciej\.android\build-cache\2760c775e0a902378d4aff87bfa6313de344ceba\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Maciej\.android\build-cache\6ba0e41bec8b55516ba3e992470ccd7c0f16bff6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Maciej\.android\build-cache\3a737659afd04650f8cc4d15182383c02f97b1b0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Maciej\.android\build-cache\fe3b6aa31dfdc11f80f207b07b83cb18b78a3e98\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Maciej\.android\build-cache\e7701d7a29dfb9483cc6a0041167f9f8b7ffda93\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Maciej\.android\build-cache\5c1fafea5d5415d28b421041c6e1e070cd5e1286\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\src\main\AndroidManifest.xml

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_a9ef1d53264fd740b2278dbb2a6680c8a3344bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\fe3b6aa31dfdc11f80f207b07b83cb18b78a3e98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\classes_1a455a704e7d16745fecaefbe50d9a609b8aa671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_b2f1d36fd16dd0ff430f47f559c5fff3ca1d0488.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_801a83af2136b9cfbe93ecc432edeffb64c31058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_97fea9772f268596d01b9eeec61d42a75a4c0835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2_56707bd6f5d4979dc0e3f5115b140a4c9e4af59b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\okio-1.8.0_f50e4d871dee0ddd29dae45b9bda9bd4e2236e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.0\ba14d8b7789efde5ee150eacb297b7237abca39\logging-interceptor-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ba14d8b7789efde5ee150eacb297b7237abca39">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.0_0ec7b5a4d9450a7eef21526c671c4fdd310a43dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2_18c15c068f9f0d9fb09d4a460746ae1227802cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\21b44b9acaab4eea203842cfabb3ffa05b2f4d6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\classes_970e48441199216c30858158b6293da3ea5a488b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_925ffb518e7611d7d276fe8792b66222490291a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\gson-2.8.0_361b89487783c6e78b6c029c50ac697124a729e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\5c1fafea5d5415d28b421041c6e1e070cd5e1286\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Maciej\Desktop\apki na repo\WeatherApp\app\build\intermediates\pre-dexed\debug\classes_0ddf6211a1c3ab04ac1cf58d0335f64993dc8a5f.jar" />
+    </item>
+
+</items>
